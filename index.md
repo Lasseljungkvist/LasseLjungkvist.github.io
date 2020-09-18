@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+title: Welcome to the homepage of LasseLjungkvist
+description: Feel free to bookmrk this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/Lasseljungkvist/LasseLjungkvist.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
